@@ -2,8 +2,8 @@
   "defaultCommand": "hello",
   "commands": {
     "hello": {
-      "scriptType": "bash",
-      "scriptPath": "hello.sh"
+      "run": "sh",
+      "path": "hello.sh"
     }
   }
 }
